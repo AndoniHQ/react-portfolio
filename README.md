@@ -17,7 +17,7 @@ All projects and experiences included in this portfolio are the result of my own
 
 ## Live Demo
 
-- Click [here](https://andonihernandez.com/) to view the live demo.
+- Click [here](https://andonihq.github.io/react-portfolio/) to view the live demo.
 
 ## Getting Started
 
